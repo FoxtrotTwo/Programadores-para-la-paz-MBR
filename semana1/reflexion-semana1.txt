@@ -1,0 +1,5 @@
+Creo que todo está más conectado de lo que parece. El uso responsable de la información en internet tiene que ver con ser consciente de lo que compartimos y cómo impacta a otros, y eso es clave también en la participación ciudadana, porque nuestras opiniones y decisiones se basan en esa información. Si la usamos mal, terminamos tomando decisiones mal informadas.
+
+Por otro lado, herramientas como Git reflejan esa misma idea pero en lo técnico: implican orden, responsabilidad y colaboración. Cada cambio que haces afecta a un equipo, así que debes ser claro, organizado y respetar el trabajo de los demás.
+
+Al final, tanto en internet como en proyectos técnicos, todo se resume en actuar con responsabilidad, pensar en el impacto de lo que haces y trabajar de forma colaborativa.

@@ -1,0 +1,6 @@
+Las dos primeras tareas serían permitir el registro de incidencias y enviar una notificación al coordinador. Son las más importantes porque permiten recibir y atender los reportes rápidamente.
+
+Para mí una tarea está terminada cuando:
+- Funciona correctamente.
+- Fue probada sin errores.
+- Quedó guardada y publicada en Git.

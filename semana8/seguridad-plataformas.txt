@@ -1,0 +1,5 @@
+1. Utilizar contraseñas seguras y cambiarlas periódicamente.
+2. No compartir credenciales con otras personas.
+3. Proteger los datos personales de los usuarios.
+4. Usar conexiones seguras para acceder a la plataforma.
+5. Limitar el acceso a información sensible según los permisos de cada usuario.
